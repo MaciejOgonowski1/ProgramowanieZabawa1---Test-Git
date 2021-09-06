@@ -32,10 +32,6 @@ namespace ProgramowanieZabawa1
                 }
             }
 
-//zmiana
-// Dodaje żeby sobie pobrać 
-
-
         }
     }
 }
